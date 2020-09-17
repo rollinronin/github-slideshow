@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-RollinRonin Slideshow
+RollinRonin World Premier
 Use the left arrow to go back!
